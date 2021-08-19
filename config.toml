@@ -1,4 +1,4 @@
-baseURL = "develocate.netlify.app"
+baseURL = "https://develocate.netlify.app"
 theme = "hugo-apero"
 languageCode = "en"
 title = "Develocate"
