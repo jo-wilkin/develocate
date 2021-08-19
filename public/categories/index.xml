@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Develocate</title>
+    <link>develocate.netlify.app/categories/</link>
+    <description>Recent content in Categories on Develocate</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 14 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="develocate.netlify.app/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>gis</title>
+      <link>develocate.netlify.app/categories/gis/</link>
+      <pubDate>Sat, 14 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>develocate.netlify.app/categories/gis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>opinion</title>
+      <link>develocate.netlify.app/categories/opinion/</link>
+      <pubDate>Sat, 14 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>develocate.netlify.app/categories/opinion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>python</title>
+      <link>develocate.netlify.app/categories/python/</link>
+      <pubDate>Sat, 14 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>develocate.netlify.app/categories/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>r</title>
+      <link>develocate.netlify.app/categories/r/</link>
+      <pubDate>Sat, 14 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>develocate.netlify.app/categories/r/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>spatial data science</title>
+      <link>develocate.netlify.app/categories/spatial-data-science/</link>
+      <pubDate>Sat, 14 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>develocate.netlify.app/categories/spatial-data-science/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>thought piece</title>
+      <link>develocate.netlify.app/categories/thought-piece/</link>
+      <pubDate>Sat, 14 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>develocate.netlify.app/categories/thought-piece/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tutorials</title>
+      <link>develocate.netlify.app/categories/tutorials/</link>
+      <pubDate>Sat, 14 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>develocate.netlify.app/categories/tutorials/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Ethics</title>
+      <link>develocate.netlify.app/categories/data-ethics/</link>
+      <pubDate>Fri, 13 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>develocate.netlify.app/categories/data-ethics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Geography</title>
+      <link>develocate.netlify.app/categories/geography/</link>
+      <pubDate>Fri, 13 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>develocate.netlify.app/categories/geography/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Programming</title>
+      <link>develocate.netlify.app/categories/programming/</link>
+      <pubDate>Fri, 13 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>develocate.netlify.app/categories/programming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Teaching Resources</title>
+      <link>develocate.netlify.app/categories/teaching-resources/</link>
+      <pubDate>Fri, 13 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>develocate.netlify.app/categories/teaching-resources/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>casper</title>
+      <link>develocate.netlify.app/categories/casper/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>develocate.netlify.app/categories/casper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>climbing</title>
+      <link>develocate.netlify.app/categories/climbing/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>develocate.netlify.app/categories/climbing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>dog</title>
+      <link>develocate.netlify.app/categories/dog/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>develocate.netlify.app/categories/dog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hiking</title>
+      <link>develocate.netlify.app/categories/hiking/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>develocate.netlify.app/categories/hiking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>outdoors</title>
+      <link>develocate.netlify.app/categories/outdoors/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>develocate.netlify.app/categories/outdoors/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sf bay area</title>
+      <link>develocate.netlify.app/categories/sf-bay-area/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>develocate.netlify.app/categories/sf-bay-area/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>toller</title>
+      <link>develocate.netlify.app/categories/toller/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>develocate.netlify.app/categories/toller/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Series on Develocate</title>
+    <link>develocate.netlify.app/series/</link>
+    <description>Recent content in Series on Develocate</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 14 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="develocate.netlify.app/series/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Spatial Data Science</title>
+      <link>develocate.netlify.app/series/spatial-data-science/</link>
+      <pubDate>Sat, 14 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>develocate.netlify.app/series/spatial-data-science/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tutorials</title>
+      <link>develocate.netlify.app/series/tutorials/</link>
+      <pubDate>Sat, 14 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>develocate.netlify.app/series/tutorials/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>All about Casper</title>
+      <link>develocate.netlify.app/series/all-about-casper/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>develocate.netlify.app/series/all-about-casper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NorCal Adventures</title>
+      <link>develocate.netlify.app/series/norcal-adventures/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>develocate.netlify.app/series/norcal-adventures/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>toller on Develocate</title>
+    <link>develocate.netlify.app/categories/toller/</link>
+    <description>Recent content in toller on Develocate</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="develocate.netlify.app/categories/toller/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Casper The Toller</title>
+      <link>develocate.netlify.app/blog/casper-series/01-casper/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>develocate.netlify.app/blog/casper-series/01-casper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Curious Casper</title>
+      <link>develocate.netlify.app/blog/casper-series/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>develocate.netlify.app/blog/casper-series/</guid>
+      <description>** No content below YAML for the series _index. This file is a leaf bundle, and provides settings for the listing page layout and sidebar content.**</description>
+    </item>
+    
+  </channel>
+</rss>

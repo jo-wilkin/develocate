@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Develocate</title>
+    <link>develocate.netlify.app/tags/</link>
+    <description>Recent content in Tags on Develocate</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 14 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="develocate.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>spatial data science</title>
+      <link>develocate.netlify.app/tags/spatial-data-science/</link>
+      <pubDate>Sat, 14 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>develocate.netlify.app/tags/spatial-data-science/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>teaching resources</title>
+      <link>develocate.netlify.app/tags/teaching-resources/</link>
+      <pubDate>Sat, 14 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>develocate.netlify.app/tags/teaching-resources/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tutorials</title>
+      <link>develocate.netlify.app/tags/tutorials/</link>
+      <pubDate>Sat, 14 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>develocate.netlify.app/tags/tutorials/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>data ethics</title>
+      <link>develocate.netlify.app/tags/data-ethics/</link>
+      <pubDate>Fri, 13 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>develocate.netlify.app/tags/data-ethics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>programming</title>
+      <link>develocate.netlify.app/tags/programming/</link>
+      <pubDate>Fri, 13 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>develocate.netlify.app/tags/programming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R</title>
+      <link>develocate.netlify.app/tags/r/</link>
+      <pubDate>Fri, 13 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>develocate.netlify.app/tags/r/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>resources</title>
+      <link>develocate.netlify.app/tags/resources/</link>
+      <pubDate>Fri, 13 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>develocate.netlify.app/tags/resources/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>teaching</title>
+      <link>develocate.netlify.app/tags/teaching/</link>
+      <pubDate>Fri, 13 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>develocate.netlify.app/tags/teaching/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>casperthetoller</title>
+      <link>develocate.netlify.app/tags/casperthetoller/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>develocate.netlify.app/tags/casperthetoller/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>outdoors</title>
+      <link>develocate.netlify.app/tags/outdoors/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>develocate.netlify.app/tags/outdoors/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

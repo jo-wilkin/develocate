@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>develocate.netlify.app/blog/tutorials-series/01-tutorial/</loc>
+    <lastmod>2021-08-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>develocate.netlify.app/blog/sds-series/01-sds/</loc>
+    <lastmod>2021-08-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>develocate.netlify.app/blog/outdoors-series/01-outdoors/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>develocate.netlify.app/blog/casper-series/01-casper/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>develocate.netlify.app/blog/</loc>
+    <lastmod>2021-08-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>develocate.netlify.app/categories/</loc>
+    <lastmod>2021-08-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>develocate.netlify.app/categories/gis/</loc>
+    <lastmod>2021-08-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>develocate.netlify.app/blog/tutorials-series/</loc>
+    <lastmod>2021-08-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>develocate.netlify.app/categories/opinion/</loc>
+    <lastmod>2021-08-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>develocate.netlify.app/categories/python/</loc>
+    <lastmod>2021-08-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>develocate.netlify.app/categories/r/</loc>
+    <lastmod>2021-08-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>develocate.netlify.app/series/</loc>
+    <lastmod>2021-08-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>develocate.netlify.app/series/spatial-data-science/</loc>
+    <lastmod>2021-08-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>develocate.netlify.app/blog/sds-series/</loc>
+    <lastmod>2021-08-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>develocate.netlify.app/tags/spatial-data-science/</loc>
+    <lastmod>2021-08-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>develocate.netlify.app/categories/spatial-data-science/</loc>
+    <lastmod>2021-08-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>develocate.netlify.app/tags/</loc>
+    <lastmod>2021-08-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>develocate.netlify.app/tags/teaching-resources/</loc>
+    <lastmod>2021-08-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>develocate.netlify.app/categories/thought-piece/</loc>
+    <lastmod>2021-08-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>develocate.netlify.app/series/tutorials/</loc>
+    <lastmod>2021-08-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>develocate.netlify.app/tags/tutorials/</loc>
+    <lastmod>2021-08-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>develocate.netlify.app/categories/tutorials/</loc>
+    <lastmod>2021-08-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>develocate.netlify.app/</loc>
+    <lastmod>2021-08-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>develocate.netlify.app/categories/data-ethics/</loc>
+    <lastmod>2021-08-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>develocate.netlify.app/tags/data-ethics/</loc>
+    <lastmod>2021-08-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>develocate.netlify.app/project/data_ethics/</loc>
+    <lastmod>2021-08-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>develocate.netlify.app/categories/geography/</loc>
+    <lastmod>2021-08-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>develocate.netlify.app/project/gpb/</loc>
+    <lastmod>2021-08-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>develocate.netlify.app/categories/programming/</loc>
+    <lastmod>2021-08-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>develocate.netlify.app/tags/programming/</loc>
+    <lastmod>2021-08-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>develocate.netlify.app/project/</loc>
+    <lastmod>2021-08-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>develocate.netlify.app/tags/r/</loc>
+    <lastmod>2021-08-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>develocate.netlify.app/project/r-gis/</loc>
+    <lastmod>2021-08-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>develocate.netlify.app/tags/resources/</loc>
+    <lastmod>2021-08-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>develocate.netlify.app/tags/teaching/</loc>
+    <lastmod>2021-08-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>develocate.netlify.app/categories/teaching-resources/</loc>
+    <lastmod>2021-08-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>develocate.netlify.app/series/all-about-casper/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>develocate.netlify.app/categories/casper/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>develocate.netlify.app/tags/casperthetoller/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>develocate.netlify.app/categories/climbing/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>develocate.netlify.app/blog/casper-series/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>develocate.netlify.app/categories/dog/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>develocate.netlify.app/categories/hiking/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>develocate.netlify.app/series/norcal-adventures/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>develocate.netlify.app/blog/outdoors-series/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>develocate.netlify.app/tags/outdoors/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>develocate.netlify.app/categories/outdoors/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>develocate.netlify.app/categories/sf-bay-area/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>develocate.netlify.app/categories/toller/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>develocate.netlify.app/about/header/</loc>
+  </url>
+  
+  <url>
+    <loc>develocate.netlify.app/about/sidebar/</loc>
+  </url>
+  
+  <url>
+    <loc>develocate.netlify.app/about/main/</loc>
+  </url>
+  
+  <url>
+    <loc>develocate.netlify.app/about/</loc>
+  </url>
+  
+  <url>
+    <loc>develocate.netlify.app/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>develocate.netlify.app/form/</loc>
+  </url>
+  
+  <url>
+    <loc>develocate.netlify.app/license/</loc>
+  </url>
+  
+  <url>
+    <loc>develocate.netlify.app/talk/</loc>
+  </url>
+  
+</urlset>

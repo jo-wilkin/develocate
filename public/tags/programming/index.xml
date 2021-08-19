@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>programming on Develocate</title>
+    <link>develocate.netlify.app/tags/programming/</link>
+    <description>Recent content in programming on Develocate</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 13 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="develocate.netlify.app/tags/programming/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Geography Programming Bootcamp</title>
+      <link>develocate.netlify.app/project/gpb/</link>
+      <pubDate>Fri, 13 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>develocate.netlify.app/project/gpb/</guid>
+      <description>Strapline: “Spatial Data Science for Dummies” / A Beginner’s Introduction to using programming for spatial data science.
+Vision: A singular platform that guides a total beginner through the foundational components of spatial data science - spatial data, cartography (data viz), spatial analysis and programming - and into the relevant available online courses through pathways. Novel contribution of the platform is in providing an initial stepping stone into spatial data science as well as the overall “programming ecosystem” within GIS.</description>
+    </item>
+    
+  </channel>
+</rss>

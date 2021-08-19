@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Welcome on Develocate</title>
+    <link>develocate.netlify.app/</link>
+    <description>Recent content in Welcome on Develocate</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 14 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="develocate.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Creating BBC style visualisations</title>
+      <link>develocate.netlify.app/blog/tutorials-series/01-tutorial/</link>
+      <pubDate>Sat, 14 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>develocate.netlify.app/blog/tutorials-series/01-tutorial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>US Census Data Release</title>
+      <link>develocate.netlify.app/blog/sds-series/01-sds/</link>
+      <pubDate>Sat, 14 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>develocate.netlify.app/blog/sds-series/01-sds/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Broken Arrow - training for elevation and distance!</title>
+      <link>develocate.netlify.app/blog/outdoors-series/01-outdoors/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>develocate.netlify.app/blog/outdoors-series/01-outdoors/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Casper The Toller</title>
+      <link>develocate.netlify.app/blog/casper-series/01-casper/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>develocate.netlify.app/blog/casper-series/01-casper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Ethics &amp; Geographical Thinking</title>
+      <link>develocate.netlify.app/project/data_ethics/</link>
+      <pubDate>Fri, 13 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>develocate.netlify.app/project/data_ethics/</guid>
+      <description>Shedding light</description>
+    </item>
+    
+    <item>
+      <title>Geography Programming Bootcamp</title>
+      <link>develocate.netlify.app/project/gpb/</link>
+      <pubDate>Fri, 13 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>develocate.netlify.app/project/gpb/</guid>
+      <description>Strapline: “Spatial Data Science for Dummies” / A Beginner’s Introduction to using programming for spatial data science.
+Vision: A singular platform that guides a total beginner through the foundational components of spatial data science - spatial data, cartography (data viz), spatial analysis and programming - and into the relevant available online courses through pathways. Novel contribution of the platform is in providing an initial stepping stone into spatial data science as well as the overall “programming ecosystem” within GIS.</description>
+    </item>
+    
+    <item>
+      <title>R-GIS Tutorials</title>
+      <link>develocate.netlify.app/project/r-gis/</link>
+      <pubDate>Fri, 13 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>develocate.netlify.app/project/r-gis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>develocate.netlify.app/about/header/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>develocate.netlify.app/about/header/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>develocate.netlify.app/about/sidebar/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>develocate.netlify.app/about/sidebar/</guid>
+      <description>** index doesn&amp;rsquo;t contain a body, just front matter above. See about/list.html in the layouts folder **</description>
+    </item>
+    
+    <item>
+      <title>A little about me</title>
+      <link>develocate.netlify.app/about/main/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>develocate.netlify.app/about/main/</guid>
+      <description>** index doesn&amp;rsquo;t contain a body, just front matter above. See about/list.html in the layouts folder **</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>develocate.netlify.app/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>develocate.netlify.app/contact/</guid>
+      <description>** Contact page don&amp;rsquo;t contain a body, just the front matter above. See form.html in the layouts folder.
+Formspree requires a (free) account and new form to be set up. The link is made on the final published url in the field: Restrict to Domain. It is possible to register up to 2 emails free and you can select which one you want the forms to go to within Formspree in the Settings tab.</description>
+    </item>
+    
+    <item>
+      <title>License</title>
+      <link>develocate.netlify.app/license/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>develocate.netlify.app/license/</guid>
+      <description>My blog posts and tutorials are released under a Creative Commons Attribution-ShareAlike 4.0 International License.
+  </description>
+    </item>
+    
+  </channel>
+</rss>

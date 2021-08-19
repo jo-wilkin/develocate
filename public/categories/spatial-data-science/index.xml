@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>spatial data science on Develocate</title>
+    <link>develocate.netlify.app/categories/spatial-data-science/</link>
+    <description>Recent content in spatial data science on Develocate</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 14 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="develocate.netlify.app/categories/spatial-data-science/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>US Census Data Release</title>
+      <link>develocate.netlify.app/blog/sds-series/01-sds/</link>
+      <pubDate>Sat, 14 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>develocate.netlify.app/blog/sds-series/01-sds/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatial Data Science</title>
+      <link>develocate.netlify.app/blog/sds-series/</link>
+      <pubDate>Sat, 14 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>develocate.netlify.app/blog/sds-series/</guid>
+      <description>** No content below YAML for the series _index. This file is a leaf bundle, and provides settings for the listing page layout and sidebar content.**</description>
+    </item>
+    
+  </channel>
+</rss>

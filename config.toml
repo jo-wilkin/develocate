@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "develocate.netlify.app"
 theme = "hugo-apero"
 languageCode = "en"
 title = "Develocate"
@@ -33,7 +33,7 @@ enableEmoji = true
   description = "A selection box of tutorials, blog posts and general thoughts on spatial data science."
   favicon = "/img-jo/rocket_square_2.png"
   logo = "/img-jo/rocket_square_2.png"
-  mainSections = ["blog", "project", "talk"]
+  mainSections = ["blog", "project"]
   navallcaps = true
   # show/hide social icons in site header & footer
   # configure social icons and links below in [[params.social]]
@@ -41,14 +41,14 @@ enableEmoji = true
   socialInFooter = true
   # Default image for social sharing and search engines. 
   # Place image file in `static` folder and specify image name here.
-  sharing_image = "/img-jo/overview.png"
+  sharing_image = "/img-jo/rocket_square_2.png"
   # Twitter username (without @). Used when a visitor shares your site on Twitter.
   twitter = "joannawilkin"
   
   # use a built-in color theme
   # one of: forest / grayscale / peach / plum /
   #         poppy / sky / violet / water 
-  theme = "water"
+  theme = "forest"
   
   # or, leave theme empty & make your own palette
   # see docs at https://hugo-apero.netlify.app/blog/color-themes/
@@ -101,10 +101,10 @@ enableEmoji = true
       icon      = "orcid" # icon name without the 'fa-'
       icon_pack = "ai"
       url       = "http://orcid.org/0000-0002-4972-2931"
-  [[params.social]]
-      icon      = "rss" # icon name without the 'fa-'
-      icon_pack = "fas"
-      url       = "/blog/index.xml"
+  #[[params.social]]
+   #   icon      = "rss" # icon name without the 'fa-'
+    #  icon_pack = "fas"
+     # url       = "/blog/index.xml"
 
 [taxonomies]
   category = "categories"
@@ -125,19 +125,19 @@ enableEmoji = true
     weight = 2
   [[menu.header]]
     name = "Projects"
-    title = "Project Portfolio"
+    title = "Projects & Resources"
     url = "/project/"
     weight = 3
+#  [[menu.header]]
+#    name = "Talks"
+#    title = "Talks"
+#    url = "/talk/"
+#    weight = 4
   [[menu.header]]
-    name = "Talks"
-    title = "Talks"
-    url = "/talk/"
-    weight = 4
- # [[menu.header]]
-  #  name = "A collection"
-   # title = "A collection"
-    #url = "/collection/"
-    #weight = 5
+    name = "C.V"
+    title = "C.V"
+    url = "/cv/"
+    weight = 5
 #  [[menu.header]]
  #   name = "Elements"
   #  title = "Element Page"

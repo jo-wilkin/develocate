@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>data ethics on Develocate</title>
+    <link>develocate.netlify.app/tags/data-ethics/</link>
+    <description>Recent content in data ethics on Develocate</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 13 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="develocate.netlify.app/tags/data-ethics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Data Ethics &amp; Geographical Thinking</title>
+      <link>develocate.netlify.app/project/data_ethics/</link>
+      <pubDate>Fri, 13 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>develocate.netlify.app/project/data_ethics/</guid>
+      <description>Shedding light</description>
+    </item>
+    
+  </channel>
+</rss>
