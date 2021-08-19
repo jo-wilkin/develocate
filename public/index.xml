@@ -109,6 +109,18 @@ Formspree requires a (free) account and new form to be set up. The link is made 
     </item>
     
     <item>
+      <title>Curriculum Vitae</title>
+      <link>develocate.netlify.app/cv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>develocate.netlify.app/cv/</guid>
+      <description>You can find an expanded version of my C.V. here.
+Academic Malarkey Published journal papers:
+ Wilkin, J.; Biggs, E.; Tatem, A.J. Measurement of Social Networks for Innovation within Community Disaster Resilience. Sustainability 2019, 11, 1943. Chughtai, H. et al. Demarginalizing interdisciplinary in IS research: interdisciplinary research in marginalization. Communications of the Association for Information Systems 2019, 44 (Contributing author).  Papers presented at international conferences:
+ NetMob 2019, University of Oxford, ‘Mapping Geographical Communities using Call Detail Records.</description>
+    </item>
+    
+    <item>
       <title>License</title>
       <link>develocate.netlify.app/license/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
